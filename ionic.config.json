@@ -1,0 +1,8 @@
+{
+  "name": "zenfiscal",
+  "app_id": "e9200928",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
